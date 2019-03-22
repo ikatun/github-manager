@@ -1,6 +1,6 @@
 {
   "admins": ["ikatun"],
-  "developers": ["ivo-coreline", "ikatun"],
+  "developers": ["ikatun"],
   "repositories": {
     "https://github.com/ikatun/node-mongo-shortener": ["developers"],
     "https://github.com/ikatun/mapix": ["developers"]
